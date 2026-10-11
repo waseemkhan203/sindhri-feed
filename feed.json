@@ -1,6 +1,6 @@
 {
  "app": "sindhri",
- "version": 5,
+ "version": 6,
  "updated": "2026-10-11",
  "articles": [
   {
@@ -100,6 +100,813 @@
    "bodySd": "گرمي پد ماپڻ جا ٻه عام نظام:\n\n• سينٽي گريڊ (°C): پاڪستان سميت دنيا جي اڪثر ملڪن ۾ استعمال. پاڻي 0°C تي ڄمي ٿو ۽ 100°C تي اٻري ٿو.\n• فارن هائيٽ (°F): آمريڪا ۾ عام. پاڻي 32°F تي ڄمي ٿو ۽ 212°F تي اٻري ٿو.\n\nتبديلي:\n• °C کان °F: (°C × 9/5) + 32\n• °F کان °C: (°F − 32) × 5/9\n\nمثال: 25°C = 77°F (آرامده موسم)، 40°C = 104°F (سخت گرمي).",
    "source": "سنڌڙي فيڊ",
    "imageName": null
+  }
+ ],
+ "books": [
+  {
+   "title": "Sachal Jo Risalo By Agha Sufi",
+   "author": "Tariq Hayat Lashari",
+   "desc": "سچل سرمست جي شاعري جو مجموعو (Tariq Hayat Lashari)۔",
+   "pdfUrl": "https://archive.org/download/SachalJoRisaloVol1ByAghaSufi/Sachal-jo-Risalo-vol-2-by-Agha-Sufi_text.pdf",
+   "infoUrl": "https://archive.org/details/SachalJoRisaloVol1ByAghaSufi"
+  },
+  {
+   "title": "Sachal Jo Risalo (Saraiki Kalam)",
+   "author": "Molana Mohammad Sadiq Ranipuri",
+   "desc": "سچل سرمست جي شاعري جو مجموعو (Molana Mohammad Sadiq Ranipuri)۔",
+   "pdfUrl": "https://archive.org/download/sachal-jo-risalo-saraiki-kalam/Sachal%20Jo%20Risalo_Saraiki%20Kalam.pdf",
+   "infoUrl": "https://archive.org/details/sachal-jo-risalo-saraiki-kalam"
+  },
+  {
+   "title": "Risalo Data Shah Wilayat Jo",
+   "author": "Syed Koural Shah",
+   "desc": "صوفي شاعري جو رسالو — Syed Koural Shah۔",
+   "pdfUrl": "https://archive.org/download/risalo-data-shah-wilayat-jo/Risalo%20Data%20Shah%20Wilayat%20Jo.pdf",
+   "infoUrl": "https://archive.org/details/risalo-data-shah-wilayat-jo"
+  },
+  {
+   "title": "Shah Jo Risalo Shawani Sur Kaamod",
+   "author": "غلام محمد شاهواڻي Ghulam Muhammad Shawani",
+   "desc": "شاهه عبداللطيف ڀٽائي جي شاعري جو مجموعو (غلام محمد شاهواڻي Ghulam Muhammad Shawani)۔ سنڌي صوفي شاعري جو شاهڪار۔",
+   "pdfUrl": "https://archive.org/download/shah-jo-risalo-shawani-sur-kaamod/Shah%20Jo%20Risalo%20Shawani%20Sur%20Kaamod.pdf",
+   "infoUrl": "https://archive.org/details/shah-jo-risalo-shawani-sur-kaamod"
+  },
+  {
+   "title": "Shah Jo Risalo Vol 1 Baanhin Khan Shaikh",
+   "author": "Baanhun Khan Shaikh ٻانهون خان شيخ",
+   "desc": "شاهه عبداللطيف ڀٽائي جي شاعري جو مجموعو (Baanhun Khan Shaikh ٻانهون خان شيخ)۔ سنڌي صوفي شاعري جو شاهڪار۔",
+   "pdfUrl": "https://archive.org/download/shah-jo-risalo-vol-1-baanhin-khan-shaikh/Shah%20Jo%20Risalo%20Vol%201%20Baanhin%20Khan%20Shaikh_text.pdf",
+   "infoUrl": "https://archive.org/details/shah-jo-risalo-vol-1-baanhin-khan-shaikh"
+  },
+  {
+   "title": "Risalo Mian Sachal Faqeer Jo ( Part Three)",
+   "author": "Mirza Ali Quli Baig",
+   "desc": "سچل سرمست جي شاعري جو مجموعو (Mirza Ali Quli Baig)۔",
+   "pdfUrl": "https://archive.org/download/risalomiansachalfaqeerjopartthree/Risalo%20Mian%20Sachal%20Faqeer%20Jo%20%28Part%20Three%29.pdf",
+   "infoUrl": "https://archive.org/details/risalomiansachalfaqeerjopartthree"
+  },
+  {
+   "title": "Shah Jo Risalo ( Sindh) شاهه جو رسالو",
+   "author": "Ghulam Mohammad Shahwani",
+   "desc": "شاهه عبداللطيف ڀٽائي جي شاعري جو مجموعو (Ghulam Mohammad Shahwani)۔ سنڌي صوفي شاعري جو شاهڪار۔",
+   "pdfUrl": "https://archive.org/download/shah-jo-risalo-ghulam-mohammad-shahwani-sindh/Shah_Jo_Risalo_Ghulam_Mohammad%20Shahwani%20%28Sindh%29_text.pdf",
+   "infoUrl": "https://archive.org/details/shah-jo-risalo-ghulam-mohammad-shahwani-sindh"
+  },
+  {
+   "title": "Risalo Mian Sachal Faqeer Jo ( Part Two)",
+   "author": "Mirza Ali Quli Baig",
+   "desc": "سچل سرمست جي شاعري جو مجموعو (Mirza Ali Quli Baig)۔",
+   "pdfUrl": "https://archive.org/download/risalomiansachalfaqeerjoparttwo/Risalo%20Mian%20Sachal%20Faqeer%20Jo%20%28Part%20Two%29.pdf",
+   "infoUrl": "https://archive.org/details/risalomiansachalfaqeerjoparttwo"
+  },
+  {
+   "title": "Shah Jo Risalo",
+   "author": "Dr. Nabi Bux Baloch",
+   "desc": "شاهه عبداللطيف ڀٽائي جي شاعري جو مجموعو (Dr. Nabi Bux Baloch)۔ سنڌي صوفي شاعري جو شاهڪار۔",
+   "pdfUrl": "https://archive.org/download/shahjorisalo_202002/Shah%20Jo%20Risalo_text.pdf",
+   "infoUrl": "https://archive.org/details/shahjorisalo_202002"
+  },
+  {
+   "title": "Shah Jo Risalo (Sindhi)",
+   "author": "Allama I. I. Qazi",
+   "desc": "شاهه عبداللطيف ڀٽائي جي شاعري جو مجموعو (Allama I. I. Qazi)۔ سنڌي صوفي شاعري جو شاهڪار۔",
+   "pdfUrl": "https://archive.org/download/risaloshahabdullatifjoallamaimdadali/Risalo%20Shah%20Abdul%20Latif%20Jo-Allama%20Imdad%20Ali_text.pdf",
+   "infoUrl": "https://archive.org/details/risaloshahabdullatifjoallamaimdadali"
+  },
+  {
+   "title": "Anwar Saeen Jo Risalo",
+   "author": "Tariq Hayat Lashari",
+   "desc": "صوفي شاعري جو رسالو — Tariq Hayat Lashari۔",
+   "pdfUrl": "https://archive.org/download/AnwarSaeenJoRisalo/Anwar%20Saeen%20Jo%20Risalo.pdf",
+   "infoUrl": "https://archive.org/details/AnwarSaeenJoRisalo"
+  },
+  {
+   "title": "Risalo Budhal Faqeer",
+   "author": "Faqeer Tariq Hayat Lashari",
+   "desc": "صوفي شاعري جو رسالو — Faqeer Tariq Hayat Lashari۔",
+   "pdfUrl": "https://archive.org/download/RisaloBudhalFaqeer/Risalo%20Budhal%20Faqeer.pdf",
+   "infoUrl": "https://archive.org/details/RisaloBudhalFaqeer"
+  },
+  {
+   "title": "Bedil Saeen Jo Risalo",
+   "author": "Akhtar Dargahi",
+   "desc": "بيدل جي شاعري/فڪر (Akhtar Dargahi)۔",
+   "pdfUrl": "https://archive.org/download/bedilsaeenjorisalo/Bedil_Saeen_Jo_Risalo.pdf",
+   "infoUrl": "https://archive.org/details/bedilsaeenjorisalo"
+  },
+  {
+   "title": "Bedil Saeen Jo Risalo",
+   "author": "Akhtar Dargahi",
+   "desc": "بيدل جي شاعري/فڪر (Akhtar Dargahi)۔",
+   "pdfUrl": "https://archive.org/download/bedil-saeen-jo-risalo_202602/Bedil%20Saeen%20Jo%20Risalo.pdf",
+   "infoUrl": "https://archive.org/details/bedil-saeen-jo-risalo_202602"
+  },
+  {
+   "title": "Risalo Mian Sachal Faqeer Jo ( Part One)",
+   "author": "Mirza Ali Kuli Baig",
+   "desc": "سچل سرمست جي شاعري جو مجموعو (Mirza Ali Kuli Baig)۔",
+   "pdfUrl": "https://archive.org/download/risalomiansachalfaqeerjopartone/Risalo%20Mian%20Sachal%20Faqeer%20Jo%20%28Part%20One%29.pdf",
+   "infoUrl": "https://archive.org/details/risalomiansachalfaqeerjopartone"
+  },
+  {
+   "title": "RISALO TAWAKAL FAQEER JO",
+   "author": "Dr. Khadim Dahot \"Khaliq\"",
+   "desc": "صوفي شاعري جو رسالو — Dr. Khadim Dahot \"Khaliq\"۔",
+   "pdfUrl": "https://archive.org/download/risalo-tawakal-faqeer-jo_202603/RISALO%20TAWAKAL%20FAQEER%20JO.pdf",
+   "infoUrl": "https://archive.org/details/risalo-tawakal-faqeer-jo_202603"
+  },
+  {
+   "title": "Risalo Ghulam Mohammad Khanzai",
+   "author": "Dr. Nabi Bux Khan Baloch",
+   "desc": "صوفي شاعري جو رسالو — Dr. Nabi Bux Khan Baloch۔",
+   "pdfUrl": "https://archive.org/download/risalo-ghulam-mohammad-khanzai/Risalo_Ghulam_Mohammad_Khanzai_text.pdf",
+   "infoUrl": "https://archive.org/details/risalo-ghulam-mohammad-khanzai"
+  },
+  {
+   "title": "Risalo Warand Waanyu رسالو ورند واڻيو (حصو ٻيو، چند صفحا)",
+   "author": "نامعلوم",
+   "desc": "صوفي شاعري جو رسالو — نامعلوم۔",
+   "pdfUrl": "https://archive.org/download/risalo-warand-waanyu/%D8%B1%D8%B3%D8%A7%D9%84%D9%88%20%D9%88%D8%B1%D9%86%D8%AF%20%D9%88%D8%A7%DA%BB%D9%8A%D9%88%20%28%DA%86%D9%86%D8%AF%20%D8%B5%D9%81%D8%AD%D8%A7%29%20.pdf",
+   "infoUrl": "https://archive.org/details/risalo-warand-waanyu"
+  },
+  {
+   "title": "Khalifey Nabi Bakhsh Jo Risalo",
+   "author": "Dr. Nabi Bux Khan Baloch",
+   "desc": "صوفي شاعري جو رسالو — Dr. Nabi Bux Khan Baloch۔",
+   "pdfUrl": "https://archive.org/download/khalifo-nabi-bakhsh-leghari-jo-risalo/Khalifo%20Nabi%20Bakhsh%20Leghari%20Jo%20Risalo_text.pdf",
+   "infoUrl": "https://archive.org/details/khalifo-nabi-bakhsh-leghari-jo-risalo"
+  },
+  {
+   "title": "Mehran Risalo Salgirah Number",
+   "author": "Ghulam Mohammad Grami",
+   "desc": "صوفي شاعري جو رسالو — Ghulam Mohammad Grami۔",
+   "pdfUrl": "https://archive.org/download/mehran-5-salgirah-number/Mehran-5%20Salgirah%20Number.pdf",
+   "infoUrl": "https://archive.org/details/mehran-5-salgirah-number"
+  },
+  {
+   "title": "Shama-e Risalat Sindhi",
+   "author": "نامعلوم",
+   "desc": "صوفي شاعري جو رسالو — نامعلوم۔",
+   "pdfUrl": "https://archive.org/download/00495ShamaERisalatSindhi/00495_Shama-e-Risalat-sd.pdf",
+   "infoUrl": "https://archive.org/details/00495ShamaERisalatSindhi"
+  },
+  {
+   "title": "Faqeer Shaiq Saeen Jo Risalo",
+   "author": "Karim Bux Kalhoro",
+   "desc": "صوفي شاعري جو رسالو — Karim Bux Kalhoro۔",
+   "pdfUrl": "https://archive.org/download/faqeershaiqsaeenjorisalo/Faqeer%20Shaiq%20Saeen%20Jo%20Risalo.pdf",
+   "infoUrl": "https://archive.org/details/faqeershaiqsaeenjorisalo"
+  },
+  {
+   "title": "Gulzar E Kapaari: Risalo Faqeer Molvi Qadir Bakhsh Gola",
+   "author": "Molvi Qadir Bakhsh Gola",
+   "desc": "صوفي شاعري جو رسالو — Molvi Qadir Bakhsh Gola۔",
+   "pdfUrl": "https://archive.org/download/gulzarekapaaririsalofaqeermolviqadirbakhshgola/Gulzar-e-Kapaari_Risalo%20Faqeer%20Molvi%20Qadir%20Bakhsh%20Gola.pdf",
+   "infoUrl": "https://archive.org/details/gulzarekapaaririsalofaqeermolviqadirbakhshgola"
+  },
+  {
+   "title": "Ayoub Faqeer Jo Risalo",
+   "author": "Zohaib Arisar",
+   "desc": "صوفي شاعري جو رسالو — Zohaib Arisar۔",
+   "pdfUrl": "https://archive.org/download/ayoubfaqeerjorisalo/Ayoub%20Faqeer%20Jo%20Risalo.pdf",
+   "infoUrl": "https://archive.org/details/ayoubfaqeerjorisalo"
+  },
+  {
+   "title": "Mira Prem Diwani",
+   "author": "S.L. Sodhi",
+   "desc": "شاعري جو ديوان — S.L. Sodhi۔",
+   "pdfUrl": "https://archive.org/download/mirapremdiwani/Mira%20Prem%20Diwani.pdf",
+   "infoUrl": "https://archive.org/details/mirapremdiwani"
+  },
+  {
+   "title": "Dictionary of Common Words In Indian Languages Vol-1",
+   "author": "Lalita Handoo",
+   "desc": "سنڌي لغت (Lalita Handoo)۔ لفظن جي معنيٰ لاءِ مفيد۔",
+   "pdfUrl": "https://archive.org/download/dli.language.2337/dli.language.2337.pdf",
+   "infoUrl": "https://archive.org/details/dli.language.2337"
+  },
+  {
+   "title": "Diwan Gul Halai",
+   "author": "Gul Muhammad Halai (Qureshiof Sanwini)",
+   "desc": "شاعري جو ديوان — Gul Muhammad Halai (Qureshiof Sanwini)۔",
+   "pdfUrl": "https://archive.org/download/diwan-gul-halai/Diwan%20Gul%20Halai.pdf",
+   "infoUrl": "https://archive.org/details/diwan-gul-halai"
+  },
+  {
+   "title": "Deewan e Aassu - 1st Edition - ديوان آسو",
+   "author": "AassuMal Daandu Mal Faqeer Sufi alias Sufi AassuRam",
+   "desc": "شاعري جو ديوان — AassuMal Daandu Mal Faqeer Sufi alias Sufi AassuRam۔",
+   "pdfUrl": "https://archive.org/download/deewan-e-aassu-1st-edition-original/Deewan%20e%20Aassu%20-%201st%20Edition%20-%20Original.pdf",
+   "infoUrl": "https://archive.org/details/deewan-e-aassu-1st-edition-original"
+  },
+  {
+   "title": "A dictionary: english and sindhi",
+   "author": "Stack, George",
+   "desc": "سنڌي لغت (Stack, George)۔ لفظن جي معنيٰ لاءِ مفيد۔",
+   "pdfUrl": "https://archive.org/download/dli.ministry.01707/20832.176.A.7_text.pdf",
+   "infoUrl": "https://archive.org/details/dli.ministry.01707"
+  },
+  {
+   "title": "A dictionary, English and Sindhi",
+   "author": "Stack, George",
+   "desc": "سنڌي لغت (Stack, George)۔ لفظن جي معنيٰ لاءِ مفيد۔",
+   "pdfUrl": "https://archive.org/download/dictionaryenglis00stac/dictionaryenglis00stac.pdf",
+   "infoUrl": "https://archive.org/details/dictionaryenglis00stac"
+  },
+  {
+   "title": "Deewan-e-Aasu ديوانِ آسو",
+   "author": "Sufi Aasuram Faqeer",
+   "desc": "شاعري جو ديوان — Sufi Aasuram Faqeer۔",
+   "pdfUrl": "https://archive.org/download/Deewan-e-Aasu/%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D9%90%20%D8%A2%D8%B3%D9%88.pdf",
+   "infoUrl": "https://archive.org/details/Deewan-e-Aasu"
+  },
+  {
+   "title": "Standard Trilingual Dictionary (Sindhi-Hindi-English)",
+   "author": "نامعلوم",
+   "desc": "سنڌي لغت (نامعلوم)۔ لفظن جي معنيٰ لاءِ مفيد۔",
+   "pdfUrl": "https://archive.org/download/dli.language.2526/dli.language.2526.pdf",
+   "infoUrl": "https://archive.org/details/dli.language.2526"
+  },
+  {
+   "title": "Dictionary of Common Words In Indian Languages Vol-2",
+   "author": "Lalita Handoo",
+   "desc": "سنڌي لغت (Lalita Handoo)۔ لفظن جي معنيٰ لاءِ مفيد۔",
+   "pdfUrl": "https://archive.org/download/dli.language.2338/dli.language.2338.pdf",
+   "infoUrl": "https://archive.org/details/dli.language.2338"
+  },
+  {
+   "title": "The Students Standard English Urdu Dictionary",
+   "author": "Not Available",
+   "desc": "سنڌي لغت (Not Available)۔ لفظن جي معنيٰ لاءِ مفيد۔",
+   "pdfUrl": "https://archive.org/download/in.ernet.dli.2015.443469/2015.443469.The-Students.pdf",
+   "infoUrl": "https://archive.org/details/in.ernet.dli.2015.443469"
+  },
+  {
+   "title": "Deewan-e-Azam (few pages) ديوان اعظم (چند صفحا)",
+   "author": "Azam Shah Baqapuri اعظم شاہ بقاپوري",
+   "desc": "شاعري جو ديوان — Azam Shah Baqapuri اعظم شاہ بقاپوري۔",
+   "pdfUrl": "https://archive.org/download/20240628_20240628_2154/%D8%AF%D9%8A%D9%88%D8%A7%D9%86%20%D8%A7%D8%B9%D8%B8%D9%85%20%28%DA%86%D9%86%D8%AF%20%D8%B5%D9%81%D8%AD%D8%A7%29%20.pdf",
+   "infoUrl": "https://archive.org/details/20240628_20240628_2154"
+  },
+  {
+   "title": "Shah Abdul Latif Bhittai Life And Poetry ( Urdu)",
+   "author": "Sheikh Ayaz",
+   "desc": "سنڌي شاعري — Sheikh Ayaz۔",
+   "pdfUrl": "https://archive.org/download/shahabdullatifbhittailifeandpoetryurdu/Shah%20Abdul%20Latif%20Bhittai%20-%20life%20and%20Poetry%20%28Urdu%29.pdf",
+   "infoUrl": "https://archive.org/details/shahabdullatifbhittailifeandpoetryurdu"
+  },
+  {
+   "title": "Bahr-ul-Ameeq: Kalam Hazrat Syed Cheezal Shah Sufi Ul Qadri",
+   "author": "Tariq Hayat Lashari",
+   "desc": "سنڌي شاعري — Tariq Hayat Lashari۔",
+   "pdfUrl": "https://archive.org/download/BahrUlAmeeq/Bahr-ul-Ameeq%20_Kalam%20Hazrat%20Syed%20Cheezal%20Shah%20Sufi-ul-Qadri.pdf",
+   "infoUrl": "https://archive.org/details/BahrUlAmeeq"
+  },
+  {
+   "title": "Hazrat Sufi Siddique Faqeer Almaroof Sadiq Shah Ji Zindagi Ain Shairi",
+   "author": "Akber Ali Chandio",
+   "desc": "سنڌي شاعري — Akber Ali Chandio۔",
+   "pdfUrl": "https://archive.org/download/hazratsufisiddiquefaqeeralmaroofsadiqshahjizindagiainshairi/Hazrat%20Sufi%20Siddique%20Faqeer%20Almaroof%20Sadiq%20Shah%20Ji%20Zindagi%20Ain%20Shairi.pdf",
+   "infoUrl": "https://archive.org/details/hazratsufisiddiquefaqeeralmaroofsadiqshahjizindagiainshairi"
+  },
+  {
+   "title": "Janshahi Buzrigan Jo Kalam",
+   "author": "Tariq Hayat",
+   "desc": "سنڌي شاعري — Tariq Hayat۔",
+   "pdfUrl": "https://archive.org/download/JanshahiBuzriganJoKalam/Janshahi%20Buzrigan%20Jo%20Kalam.pdf",
+   "infoUrl": "https://archive.org/details/JanshahiBuzriganJoKalam"
+  },
+  {
+   "title": "Kalam Shah Naseer",
+   "author": "Faqeer Tariq Hayat Lashari",
+   "desc": "سنڌي شاعري — Faqeer Tariq Hayat Lashari۔",
+   "pdfUrl": "https://archive.org/download/KalamShahNaseer/Kalam%20Shah%20Naseer.pdf",
+   "infoUrl": "https://archive.org/details/KalamShahNaseer"
+  },
+  {
+   "title": "Kalam-e-Qutab Shah",
+   "author": "Tariq Hayat Lashari",
+   "desc": "سنڌي شاعري — Tariq Hayat Lashari۔",
+   "pdfUrl": "https://archive.org/download/KalamEQutabShah/Kalam-e-Qutab%20Shah.pdf",
+   "infoUrl": "https://archive.org/details/KalamEQutabShah"
+  },
+  {
+   "title": "Kalam Hazrat Misri Shah Imam Rizvi",
+   "author": "Faqir Tariq Hayat Lashari",
+   "desc": "سنڌي شاعري — Faqir Tariq Hayat Lashari۔",
+   "pdfUrl": "https://archive.org/download/KALAMHAZRATMISRISHAHIMAMRIZVI/KALAM%20HAZRAT%20MISRI%20SHAH%20IMAM%20RIZVI.pdf",
+   "infoUrl": "https://archive.org/details/KALAMHAZRATMISRISHAHIMAMRIZVI"
+  },
+  {
+   "title": "Sufi Faqeer Janan Chan Jo Kalam",
+   "author": "Yawar Ali Kazmi",
+   "desc": "سنڌي شاعري — Yawar Ali Kazmi۔",
+   "pdfUrl": "https://archive.org/download/sufifaqeerjananchanjokalam/Sufi%20Faqeer%20Janan%20Chan%20Jo%20Kalam.pdf",
+   "infoUrl": "https://archive.org/details/sufifaqeerjananchanjokalam"
+  },
+  {
+   "title": "Darweshi Kalam درويشي ڪلام",
+   "author": "Khushiram Nebhandas Khushahalani",
+   "desc": "سنڌي شاعري — Khushiram Nebhandas Khushahalani۔",
+   "pdfUrl": "https://archive.org/download/darweshi-kalam/%D8%AF%D8%B1%D9%88%D9%8A%D8%B4%D9%8A%20%DA%AA%D9%84%D8%A7%D9%85%20%D9%85%DA%AA%D9%85%D9%84.pdf",
+   "infoUrl": "https://archive.org/details/darweshi-kalam"
+  },
+  {
+   "title": "Sachal Jo Kalam",
+   "author": "نامعلوم",
+   "desc": "سچل سرمست جي شاعري جو مجموعو (نامعلوم)۔",
+   "pdfUrl": "https://archive.org/download/SachalJoKalam/Sachal-Jo-Kalam.pdf",
+   "infoUrl": "https://archive.org/details/SachalJoKalam"
+  },
+  {
+   "title": "Bedil Jo Urdu Kalam",
+   "author": "Akhtar Dargahi",
+   "desc": "بيدل جي شاعري/فڪر (Akhtar Dargahi)۔",
+   "pdfUrl": "https://archive.org/download/bediljourdukalam/Bedil%20Jo%20Urdu%20Kalam.pdf",
+   "infoUrl": "https://archive.org/details/bediljourdukalam"
+  },
+  {
+   "title": "Agham Parkash - Sufi Jalal Faqeer Talpur Jo Kalam",
+   "author": "Khadim Jalali",
+   "desc": "سنڌي شاعري — Khadim Jalali۔",
+   "pdfUrl": "https://archive.org/download/agham-parkash-sufi-jalal-faqeer-talpur-jo-kalam/Agham%20Parkash%20-%20Sufi%20Jalal%20Faqeer%20Talpur%20Jo%20Kalam.pdf",
+   "infoUrl": "https://archive.org/details/agham-parkash-sufi-jalal-faqeer-talpur-jo-kalam"
+  },
+  {
+   "title": "Al-Sufi La Mazhab_Mantooq Mohammadi: Kalam Sufi Mohammad Faqeer Khatian",
+   "author": "Rais Khan Mohammad Khatian",
+   "desc": "سنڌي شاعري — Rais Khan Mohammad Khatian۔",
+   "pdfUrl": "https://archive.org/download/2003_20260408/%D8%A7%D9%84%D8%B5%D9%88%D9%81%D9%8A_%D9%84%D8%A7%D9%85%D8%B0%DA%BE%D8%A8_%D9%85%D9%86%D8%B7%D9%88%D9%82_%D9%85%D8%AD%D9%85%D8%AF%D9%8A_%D8%A7%D8%AD%D9%88%D8%A7%D9%84_%D8%A7%D8%AD%D9%85%D8%AF%D9%8A-%D8%B5%D9%88%D9%81%D9%8A_%D9%85%D8%AD%D9%85%D8%AF_%D9%81%D9%82%D9%8A%D8%B1_%DA%A9%D9%BD%D9%8A%D8%A7%DA%BB-2003-%D8%B5%D8%A7%D9%81.pdf",
+   "infoUrl": "https://archive.org/details/2003_20260408"
+  },
+  {
+   "title": "Choond Kalam_Manthar Faqeer Rajar 2",
+   "author": "manthar, sufi, faqeer, sindh, sindhi",
+   "desc": "سنڌي شاعري — manthar, sufi, faqeer, sindh, sindhi۔",
+   "pdfUrl": "https://archive.org/download/choond-kalam-manthar-faqeer-rajar-2/Choond%20Kalam_Manthar%20Faqeer%20Rajar%202.pdf",
+   "infoUrl": "https://archive.org/details/choond-kalam-manthar-faqeer-rajar-2"
+  },
+  {
+   "title": "[PDF] Quran Sindhi translation (قرآن مجيد جو سنڌي ترجمو)",
+   "author": "Syed Taj Mahmood Amroti (رحمه الله)",
+   "desc": "قرآن مجيد جو سنڌي ترجمو (Syed Taj Mahmood Amroti (رحمه الله))۔",
+   "pdfUrl": "https://archive.org/download/quran-sindhi-translation/quran-sindhi-translation.pdf",
+   "infoUrl": "https://archive.org/details/quran-sindhi-translation"
+  },
+  {
+   "title": "Sharah-e-Kalam-e-Jami",
+   "author": "Prof. Dr. Shamsuddin Ahmed",
+   "desc": "سنڌي شاعري — Prof. Dr. Shamsuddin Ahmed۔",
+   "pdfUrl": "https://archive.org/download/sharahekalamejami/Sharah-e-Kalam-e-Jami_text.pdf",
+   "infoUrl": "https://archive.org/details/sharahekalamejami"
+  },
+  {
+   "title": "Grammar of the Sindhi language. Compared with the Sanskrit-Prakrit and the cognate Indian vernaculars",
+   "author": "Trumpp, Ernst, 1828-1885",
+   "desc": "سنڌي ٻولي جي گرامر (Trumpp, Ernst, 1828-1885)۔",
+   "pdfUrl": "https://archive.org/download/grammarsindhila03trumgoog/grammarsindhila03trumgoog.pdf",
+   "infoUrl": "https://archive.org/details/grammarsindhila03trumgoog"
+  },
+  {
+   "title": "Kuleyat Faiz Hydrei ( Poetry 1959)",
+   "author": "فيض محمد فيض حيدري",
+   "desc": "سنڌي شاعري — فيض محمد فيض حيدري۔",
+   "pdfUrl": "https://archive.org/download/kuleyat-faiz-hydrei-poetry-1959/Kuleyat%20Faiz%20Hydrei%20%28Poetry%201959%29.pdf",
+   "infoUrl": "https://archive.org/details/kuleyat-faiz-hydrei-poetry-1959"
+  },
+  {
+   "title": "Kalam Hassan Bakhsh",
+   "author": "Arif-ul-Mola",
+   "desc": "سنڌي شاعري — Arif-ul-Mola۔",
+   "pdfUrl": "https://archive.org/download/kalam-hassan-bakhsh/Kalam%20Hassan%20Bakhsh.pdf",
+   "infoUrl": "https://archive.org/details/kalam-hassan-bakhsh"
+  },
+  {
+   "title": "quranjomutalea00karrar",
+   "author": "Aslam Khwaja",
+   "desc": "قرآن مجيد جو سنڌي ترجمو (Aslam Khwaja)۔",
+   "pdfUrl": "https://archive.org/download/quranjomutalea00karrar_202604/quranjomutalea00karrar.pdf",
+   "infoUrl": "https://archive.org/details/quranjomutalea00karrar_202604"
+  },
+  {
+   "title": "Yadun Ja Gul ( Poetry) By Agha Sher Gul Final",
+   "author": "Agha Sher Gul Sarki",
+   "desc": "سنڌي شاعري — Agha Sher Gul Sarki۔",
+   "pdfUrl": "https://archive.org/download/yadun-ja-gul-poetry-by-agha-sher-gul-final/Yadun%20ja%20gul%20%28Poetry%29%20by%20Agha%20Sher%20Gul%20final.pdf",
+   "infoUrl": "https://archive.org/details/yadun-ja-gul-poetry-by-agha-sher-gul-final"
+  },
+  {
+   "title": "Quran Kareem (Sindhi) Kanzul Eeman",
+   "author": "Hazrat Imam Ahmad Raza Khan Brelvi",
+   "desc": "قرآن مجيد جو سنڌي ترجمو (Hazrat Imam Ahmad Raza Khan Brelvi)۔",
+   "pdfUrl": "https://archive.org/download/01_20200329_20200329_1945/%D9%85%D9%82%D8%AF%D8%B3%20%D9%82%D8%B1%D8%A2%D9%86%20%D9%85%D8%AC%D9%8A%D8%AF%20%D8%B3%DA%8C%D9%8A%20%D8%AA%D8%B1%D8%AC%D9%85%D9%88%20%DB%BD%20%D8%AA%D9%81%D8%B3%D9%8A%D8%B1.pdf",
+   "infoUrl": "https://archive.org/details/01_20200329_20200329_1945"
+  },
+  {
+   "title": "Kalam Faqeer Nawab Wali Mohammad Khan Leghari",
+   "author": "Dr. Nabi Bux Khan Baloch",
+   "desc": "سنڌي شاعري — Dr. Nabi Bux Khan Baloch۔",
+   "pdfUrl": "https://archive.org/download/kalamfaqeernawabwalimohammadkhanleghari/Kalam%20Faqeer%20Nawab%20Wali%20Mohammad%20Khan%20Leghari.pdf",
+   "infoUrl": "https://archive.org/details/kalamfaqeernawabwalimohammadkhanleghari"
+  },
+  {
+   "title": "Kalam Faqeer Khush Khair Mohammad",
+   "author": "Dr. Tanveer Abbasi",
+   "desc": "سنڌي شاعري — Dr. Tanveer Abbasi۔",
+   "pdfUrl": "https://archive.org/download/KalamFaqeerKhushKhairMohammad/KalamFaqeerKhushKhairMohammad.pdf",
+   "infoUrl": "https://archive.org/details/KalamFaqeerKhushKhairMohammad"
+  },
+  {
+   "title": "Faqeer Hidayat Ali Najafi Tarek Jo Sindhi Kalam",
+   "author": "Dr. Nawaz Ali Shouq",
+   "desc": "سنڌي شاعري — Dr. Nawaz Ali Shouq۔",
+   "pdfUrl": "https://archive.org/download/faqeerhidayatalinajafitarekjosindhikalam/Faqeer%20Hidayat%20Ali%20Najafi%20Tarek%20Jo%20Sindhi%20Kalam.pdf",
+   "infoUrl": "https://archive.org/details/faqeerhidayatalinajafitarekjosindhikalam"
+  },
+  {
+   "title": "Aakhund Azizullah Quran sindhi Fateha to Ankabut",
+   "author": "آخوند عزيزالله متعلوي، لنواري، Aakhund Azizullah Mutalavi",
+   "desc": "قرآن مجيد جو سنڌي ترجمو (آخوند عزيزالله متعلوي، لنواري، Aakhund Azizullah Mutalavi)۔",
+   "pdfUrl": "https://archive.org/download/aakhund-azizullah-quran-1-342-ankabut/Aakhund%20Azizullah%20Quran%201%20342%20Ankabut.pdf",
+   "infoUrl": "https://archive.org/details/aakhund-azizullah-quran-1-342-ankabut"
+  },
+  {
+   "title": "Aau Kanga Kar Galh (Faqir Daryah Khan jo Kalam) آء ڪانگا ڪر ڳالھہ (فقير دريا خان جو ڪلام)",
+   "author": "Nyaz Humayooni",
+   "desc": "سنڌي شاعري — Nyaz Humayooni۔",
+   "pdfUrl": "https://archive.org/download/2007_20240530/%D8%A2%D8%A1_%DA%AA%D8%A7%D9%86%DA%AF%D8%A7_%DA%AA%D8%B1_%DA%B3%D8%A7%D9%84%DA%BE%DB%81-%D9%81%D9%82%D9%8A%D8%B1_%D8%AF%D8%B1%D9%8A%D8%A7_%D8%AE%D8%A7%D9%86_%28%D8%B3%DA%BE%D9%8A%DA%99%D9%8A%D9%86%D8%AF%DA%99_%D9%86%D9%8A%D8%A7%D8%B2_%DA%BE%D9%85%D8%A7%D9%8A%D9%88%D9%86%D9%8A%29-2007-%D8%B5%D8%A7%D9%81.pdf",
+   "infoUrl": "https://archive.org/details/2007_20240530"
+  },
+  {
+   "title": "Agha Sheer Gul Poetry Book Final For Online Share Update",
+   "author": "PROF.AGHA SHER GUL SARKI",
+   "desc": "سنڌي شاعري — PROF.AGHA SHER GUL SARKI۔",
+   "pdfUrl": "https://archive.org/download/agha-sheer-gul-poetry-book-final-for-online-share-update/Agha%20Sheer%20Gul%20Poetry%20Book%20Final%20for%20online%20share%20update.pdf",
+   "infoUrl": "https://archive.org/details/agha-sheer-gul-poetry-book-final-for-online-share-update"
+  },
+  {
+   "title": "Ahwal E Ishq Pariyal Faqeer Painaar Jo Kalam",
+   "author": "Ustad Hakeem Imam Bakhsh Mangriyo",
+   "desc": "سنڌي شاعري — Ustad Hakeem Imam Bakhsh Mangriyo۔",
+   "pdfUrl": "https://archive.org/download/ahwal-e-ishq-pariyal-faqeer-painaar-jo-kalam/Ahwal-e-Ishq_%20Pariyal%20Faqeer%20Painaar%20Jo%20Kalam.pdf",
+   "infoUrl": "https://archive.org/details/ahwal-e-ishq-pariyal-faqeer-painaar-jo-kalam"
+  },
+  {
+   "title": "Bibliography Of Published Books Before 1947 in Sindh (Poetry & Other Sections Only)",
+   "author": "Institute of Sindhology, Jamshoro, Sindh",
+   "desc": "سنڌي شاعري — Institute of Sindhology, Jamshoro, Sindh۔",
+   "pdfUrl": "https://archive.org/download/bibliography-of-published-books-before-1947-poetry-other-sections-only/Bibliography%20of%20Published%20Books%20before%201947%20%28Poetry%20%26%20other%20sections%20only%29.pdf",
+   "infoUrl": "https://archive.org/details/bibliography-of-published-books-before-1947-poetry-other-sections-only"
+  },
+  {
+   "title": "Choond Kalam Hazrat Manthar Faqeer Rajar",
+   "author": "Fؐaqeer Mohammad Bakhsh Zamin",
+   "desc": "سنڌي شاعري — Fؐaqeer Mohammad Bakhsh Zamin۔",
+   "pdfUrl": "https://archive.org/download/choond-kalam-hazrat-manthar-faqeer-rajar/Choond%20Kalam_Hazrat%20Manthar%20Faqeer%20Rajar.pdf",
+   "infoUrl": "https://archive.org/details/choond-kalam-hazrat-manthar-faqeer-rajar"
+  },
+  {
+   "title": "سنڌي ادب جي سرهاڻ (ادبي تاريخ 2017ع) صبا شاھ",
+   "author": "صبا شاھ",
+   "desc": "تاريخي ڪتاب — صبا شاھ۔",
+   "pdfUrl": "https://archive.org/download/soorih-sindhi-adab_20250430/%D8%B3%D9%86%DA%8C%D9%8A%20%D8%A7%D8%AF%D8%A8%20%D8%AC%D9%8A%20%D8%B3%D8%B1%D9%87%D8%A7%DA%BB%20%28%D8%A7%D8%AF%D8%A8%D9%8A%20%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%202017%D8%B9%29%20%D8%B5%D8%A8%D8%A7%20%D8%B4%D8%A7%DA%BE.pdf",
+   "infoUrl": "https://archive.org/details/soorih-sindhi-adab_20250430"
+  },
+  {
+   "title": "Choond Kalam E Ghirhori چونڊ ڪلام گرهوڙي",
+   "author": "مخدوم عبدالرحيم گرهوڙي Makhdoom Abdur Rahim Girhori",
+   "desc": "سنڌي شاعري — مخدوم عبدالرحيم گرهوڙي Makhdoom Abdur Rahim Girhori۔",
+   "pdfUrl": "https://archive.org/download/kalam-e-ghirhori/Kalam%20e%20Ghirhori.pdf",
+   "infoUrl": "https://archive.org/details/kalam-e-ghirhori"
+  },
+  {
+   "title": "ديد جو درشن (شاعري 2023ع) زيب ڪنگو",
+   "author": "زيب ڪنگو",
+   "desc": "سنڌي شاعري — زيب ڪنگو۔",
+   "pdfUrl": "https://archive.org/download/soorih-sindhi-adab_202605/%D8%AF%D9%8A%D8%AF%20%D8%AC%D9%88%20%D8%AF%D8%B1%D8%B4%D9%86%20%28%D8%B4%D8%A7%D8%B9%D8%B1%D9%8A%202023%D8%B9%29%20%D8%B2%D9%8A%D8%A8%20%DA%AA%D9%86%DA%AF%D9%88.pdf",
+   "infoUrl": "https://archive.org/details/soorih-sindhi-adab_202605"
+  },
+  {
+   "title": "ڇپر ۾ ڇڙيون 2004،ء 1971ء شاعري مصنف مخدوم محمَّد زمان طالب الموليٰ",
+   "author": "مخدوم طالب المولي",
+   "desc": "سنڌي شاعري — مخدوم طالب المولي۔",
+   "pdfUrl": "https://archive.org/download/soorih-sindhi-adab_202509/%DA%87%D9%BE%D8%B1_%DB%BE_%DA%87%DA%99%D9%8A%D9%88%D9%86_2004%D8%8C%D8%A11971%D8%A1_%D8%B4%D8%A7%D8%B9%D8%B1%D9%8A_%D9%85%D8%B5%D9%86%D9%81_%D9%85%D8%AE%D8%AF%D9%88%D9%85_%D9%85%D8%AD%D9%85%D9%91%D9%8E%D8%AF_%D8%B2%D9%85%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D8%A8_%D8%A7%D9%84%D9%85%D9%88%D9%84%D9%8A%D9%B0.pdf",
+   "infoUrl": "https://archive.org/details/soorih-sindhi-adab_202509"
+  },
+  {
+   "title": "قرآن مجید ۔ سندھی ترجمہ السعودیہ از مولانا تاج محمود امروثی ۔ سندی ۔ حق",
+   "author": "Al-Haqq al-Bayān Library الحق البيان لائبریری",
+   "desc": "قرآن مجيد جو سنڌي ترجمو (Al-Haqq al-Bayān Library الحق البيان لائبریری)۔",
+   "pdfUrl": "https://archive.org/download/20250923_20250923_0818/%D9%82%D8%B1%D8%A2%D9%86%20%D9%85%D8%AC%DB%8C%D8%AF%20%DB%94%20%D8%B3%D9%86%D8%AF%DA%BE%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%DB%8C%DB%81%20%D8%A7%D8%B2%20%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7%20%D8%AA%D8%A7%D8%AC%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%A7%D9%85%D8%B1%D9%88%D8%AB%DB%8C%20%DB%94%20%D8%B3%D9%86%D8%AF%DB%8C%20%DB%94%20%D8%AD%D9%82%20_text.pdf",
+   "infoUrl": "https://archive.org/details/20250923_20250923_0818"
+  },
+  {
+   "title": "ڪلامِ خليفه",
+   "author": "Dr. Aijaz Ali Sodhar",
+   "desc": "سنڌي شاعري — Dr. Aijaz Ali Sodhar۔",
+   "pdfUrl": "https://archive.org/download/20260624_20260624_2124/%DA%AA%D9%84%D8%A7%D9%85%D9%90%20%D8%AE%D9%84%D9%8A%D9%81%D9%87.pdf",
+   "infoUrl": "https://archive.org/details/20260624_20260624_2124"
+  },
+  {
+   "title": "ڪارونجهر جا مور (ٻارن لاءِ شاعري 2019) سرور نواز ٻگهيو",
+   "author": "سرور نواز ٻگهيو",
+   "desc": "سنڌي شاعري — سرور نواز ٻگهيو۔",
+   "pdfUrl": "https://archive.org/download/2019_20260801/%DA%AA%D8%A7%D8%B1%D9%88%D9%86%D8%AC%D9%87%D8%B1%20%D8%AC%D8%A7%20%D9%85%D9%88%D8%B1%20%28%D9%BB%D8%A7%D8%B1%D9%86%20%D9%84%D8%A7%D8%A1%D9%90%20%D8%B4%D8%A7%D8%B9%D8%B1%D9%8A%202019%29%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%86%D9%88%D8%A7%D8%B2%20%D9%BB%DA%AF%D9%87%D9%8A%D9%88.pdf",
+   "infoUrl": "https://archive.org/details/2019_20260801"
+  },
+  {
+   "title": "سنڌي ادب جي تاريخ ۽ صنفن تي ھڪ نظر",
+   "author": "ميان مير چانڊيو",
+   "desc": "تاريخي ڪتاب — ميان مير چانڊيو۔",
+   "pdfUrl": "https://archive.org/download/sindhi-adab-ji-tareekh-ain-sinfun-te-hik-nazar/%D8%B3%D9%86%DA%8C%D9%8A_%D8%A7%D8%AF%D8%A8_%D8%AC%D9%8A_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%DB%BD_%D8%B5%D9%86%D9%81%D9%86_%D8%AA%D9%8A_%DA%BE%DA%AA_%D9%86%D8%B8%D8%B1_2007_%D9%85%D9%8A%D8%A7%D9%86_%D9%85%D9%8A%D8%B1_%DA%86%D8%A7%D9%86%DA%8A%D9%8A%D9%88.pdf",
+   "infoUrl": "https://archive.org/details/sindhi-adab-ji-tareekh-ain-sinfun-te-hik-nazar"
+  },
+  {
+   "title": "شيخ اياز ۽ سندس شاعري",
+   "author": "قربان علي بگٽي ,Qurban Ali Bugti",
+   "desc": "سنڌي شاعري — قربان علي بگٽي ,Qurban Ali Bugti۔",
+   "pdfUrl": "https://archive.org/download/sheikh-ayaz-aayin-sandas-shahaeri-f-2/Sheikh%20Ayaz%20aayin%20Sandas%20Shahaeri%20F%202.pdf",
+   "infoUrl": "https://archive.org/details/sheikh-ayaz-aayin-sandas-shahaeri-f-2"
+  },
+  {
+   "title": "تاريخ شعرا لاڙ (حصو ٻيو 1970) محمد ھاشم ٽالپر 'خادم'",
+   "author": "محمد هاشم ٽالپر خادم",
+   "desc": "تاريخي ڪتاب — محمد هاشم ٽالپر خادم۔",
+   "pdfUrl": "https://archive.org/download/1970_20250418/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%B4%D8%B9%D8%B1%D8%A7%20%D9%84%D8%A7%DA%99%20%28%D8%AD%D8%B5%D9%88%20%D9%BB%D9%8A%D9%88%201970%29%20%D9%85%D8%AD%D9%85%D8%AF%20%DA%BE%D8%A7%D8%B4%D9%85%20%D9%BD%D8%A7%D9%84%D9%BE%D8%B1%20%27%D8%AE%D8%A7%D8%AF%D9%85%27.pdf",
+   "infoUrl": "https://archive.org/details/1970_20250418"
+  },
+  {
+   "title": "زلفِ اياز (شاعري 2007) اياز قادري",
+   "author": "Ayaz Qadri",
+   "desc": "سنڌي شاعري — Ayaz Qadri۔",
+   "pdfUrl": "https://archive.org/download/2007_20241114/%D8%B2%D9%84%D9%81%D9%90%20%D8%A7%D9%8A%D8%A7%D8%B2%20%28%D8%B4%D8%A7%D8%B9%D8%B1%D9%8A%202007%29%20%D8%A7%D9%8A%D8%A7%D8%B2%20%D9%82%D8%A7%D8%AF%D8%B1%D9%8A.pdf",
+   "infoUrl": "https://archive.org/details/2007_20241114"
+  },
+  {
+   "title": "ڪبير جي چونڊ شاعري 2014ع ڀڳت ڪبير سنڌيڪار امان شيخ",
+   "author": "Bagat Kabeer / Aman Sheikh",
+   "desc": "سنڌي شاعري — Bagat Kabeer / Aman Sheikh۔",
+   "pdfUrl": "https://archive.org/download/2014_20240824/%DA%AA%D8%A8%D9%8A%D8%B1%20%D8%AC%D9%8A%20%DA%86%D9%88%D9%86%DA%8A%20%D8%B4%D8%A7%D8%B9%D8%B1%D9%8A%20-%202014%D8%B9%20-%20%DA%80%DA%B3%D8%AA%20%DA%AA%D8%A8%D9%8A%D8%B1%20-%20%D8%B3%D9%86%DA%8C%D9%8A%DA%AA%D8%A7%D8%B1%20-%20%D8%A7%D9%85%D8%A7%D9%86%20%D8%B4%D9%8A%D8%AE.pdf",
+   "infoUrl": "https://archive.org/details/2014_20240824"
+  },
+  {
+   "title": "Tazkirah Mashahir Sindh Volume 2 Maulana Din Muhammad Wafai Sindhi Adabi Board",
+   "author": "مولانا دين محمد وفائي Maulana Din Muhammad Wafai",
+   "desc": "سوانح حيات — مولانا دين محمد وفائي Maulana Din Muhammad Wafai۔",
+   "pdfUrl": "https://archive.org/download/tazkirah-mashahir-sindh-volume-2-maulana-din-muhammad-wafai-sindhi-adabi-board/Tazkirah%20Mashahir%20Sindh%20Volume%202%20Maulana%20Din%20Muhammad%20Wafai%20Sindhi%20Adabi%20Board.pdf",
+   "infoUrl": "https://archive.org/details/tazkirah-mashahir-sindh-volume-2-maulana-din-muhammad-wafai-sindhi-adabi-board"
+  },
+  {
+   "title": "Seerat Shaheed Girhori",
+   "author": "Mohammad Idress Dahiri Naqshbandi",
+   "desc": "سوانح حيات — Mohammad Idress Dahiri Naqshbandi۔",
+   "pdfUrl": "https://archive.org/download/seerat-shaheed-girhori/SeeratShaheedGirhori.pdf",
+   "infoUrl": "https://archive.org/details/seerat-shaheed-girhori"
+  },
+  {
+   "title": "Sukhan-e-Aijaz",
+   "author": "Sufi Aijaz Shah Rashdi",
+   "desc": "تصوف تي ڪتاب — Sufi Aijaz Shah Rashdi۔",
+   "pdfUrl": "https://archive.org/download/sukhan-e-Aijaz/Sukhan-e-Aijaz.pdf",
+   "infoUrl": "https://archive.org/details/sukhan-e-Aijaz"
+  },
+  {
+   "title": "Ghazaliyat-e-Bedil",
+   "author": "Faqeer Tariq Hayat Lashari",
+   "desc": "بيدل جي شاعري/فڪر (Faqeer Tariq Hayat Lashari)۔",
+   "pdfUrl": "https://archive.org/download/GhazaliyatEBedil/Ghazaliyat-e-Bedil.pdf",
+   "infoUrl": "https://archive.org/details/GhazaliyatEBedil"
+  },
+  {
+   "title": "Bedil Namo",
+   "author": "Faqeer Tariq Hayat Lashari",
+   "desc": "بيدل جي شاعري/فڪر (Faqeer Tariq Hayat Lashari)۔",
+   "pdfUrl": "https://archive.org/download/BedilNamo/Bedil%20Namo.pdf",
+   "infoUrl": "https://archive.org/details/BedilNamo"
+  },
+  {
+   "title": "Mantoq-e-Mohammadi",
+   "author": "Muhammad Faqeer Khatiyan Sufi-ul-Qadri",
+   "desc": "تصوف تي ڪتاب — Muhammad Faqeer Khatiyan Sufi-ul-Qadri۔",
+   "pdfUrl": "https://archive.org/download/MantoqeMohammadi/Mantoq-e-Muhammadi.pdf",
+   "infoUrl": "https://archive.org/details/MantoqeMohammadi"
+  },
+  {
+   "title": "Ddutrial Dess Ji Kahani Ruk Sindhi",
+   "author": "Ruk Sindhi",
+   "desc": "ڪهاڻين جو مجموعو — Ruk Sindhi۔",
+   "pdfUrl": "https://archive.org/download/DdutrialDessJiKahaniRukSindhi/DdutrialDessJiKahani-rukSindhi.pdf",
+   "infoUrl": "https://archive.org/details/DdutrialDessJiKahaniRukSindhi"
+  },
+  {
+   "title": "Kandiri Rang",
+   "author": "Sufi Darya Khan Faqeer Zangejo",
+   "desc": "تصوف تي ڪتاب — Sufi Darya Khan Faqeer Zangejo۔",
+   "pdfUrl": "https://archive.org/download/kandirirang/Kandiri%20Rang.pdf",
+   "infoUrl": "https://archive.org/details/kandirirang"
+  },
+  {
+   "title": "Tazkira-e- Lutfi _Three",
+   "author": "Lutuf ullah Badvi",
+   "desc": "سوانح حيات — Lutuf ullah Badvi۔",
+   "pdfUrl": "https://archive.org/download/tazkira-e-lutfi-three/Tazkira-e-Lutfi_Three.pdf",
+   "infoUrl": "https://archive.org/details/tazkira-e-lutfi-three"
+  },
+  {
+   "title": "ISHQ-E-SATTAR",
+   "author": "Faqeer Sufi Iman-ul-Deen Sattari",
+   "desc": "تصوف تي ڪتاب — Faqeer Sufi Iman-ul-Deen Sattari۔",
+   "pdfUrl": "https://archive.org/download/ishiqesattar1/ISHIQ-E-SATTAR1.pdf",
+   "infoUrl": "https://archive.org/details/ishiqesattar1"
+  },
+  {
+   "title": "Divan-e-Assu - Sufi Assuram",
+   "author": "Aakash Aasswani",
+   "desc": "تصوف تي ڪتاب — Aakash Aasswani۔",
+   "pdfUrl": "https://archive.org/download/divan-e-assu-sufi-assuram/Divan-e-Assu_Sufi%20Assuram.pdf",
+   "infoUrl": "https://archive.org/details/divan-e-assu-sufi-assuram"
+  },
+  {
+   "title": "Tazkira Porani Sadat Sakhar Kazmi تذڪره پوراني سادات سکر",
+   "author": "Hamid Ali",
+   "desc": "سوانح حيات — Hamid Ali۔",
+   "pdfUrl": "https://archive.org/download/TazkiraPoraniSadatSakharKazmi/Tazkira%20Porani%20Sadat%20Sakhar%20Kazmi-%D8%AA%D8%B0%DA%AA%D8%B1%D9%87-%D9%BE%D9%88%D8%B1%D8%A7%D9%86%D9%8A-%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA-%D8%B3%DA%A9%D8%B1.pdf",
+   "infoUrl": "https://archive.org/details/TazkiraPoraniSadatSakharKazmi"
+  },
+  {
+   "title": "sindhi-kahani-by-devi-naagraani",
+   "author": "Devi Naagraani",
+   "desc": "ڪهاڻين جو مجموعو — Devi Naagraani۔",
+   "pdfUrl": "https://archive.org/download/sindhi-kahani-by-devi-naagraani/sindhi-kahani-by-devi-naagraani.pdf",
+   "infoUrl": "https://archive.org/details/sindhi-kahani-by-devi-naagraani"
+  },
+  {
+   "title": "Ruk Sindhi Ddutrial Dess Ji Kahani",
+   "author": "Ruk Sindhi",
+   "desc": "ڪهاڻين جو مجموعو — Ruk Sindhi۔",
+   "pdfUrl": "https://archive.org/download/ruk-sindhi-ddutrial-dess-ji-kahani/Ruk%20Sindhi-Ddutrial%20Dess%20ji%20Kahani.pdf",
+   "infoUrl": "https://archive.org/details/ruk-sindhi-ddutrial-dess-ji-kahani"
+  },
+  {
+   "title": "مئخاني جي ماڳ تي - Maikhany Jy Maag Ty",
+   "author": "Sufi Khadim Dahot",
+   "desc": "تصوف تي ڪتاب — Sufi Khadim Dahot۔",
+   "pdfUrl": "https://archive.org/download/ok-maikhany-jy-maag-ty-sufi-muzaffar-final/%D9%85%D8%A6%D8%AE%D8%A7%D9%86%D9%8A%20%D8%AC%D9%8A%20%D9%85%D8%A7%DA%B3%20%D8%AA%D9%8A%20-%20Maikhane%20Je%20Maagg%20Ty%20..pdf",
+   "infoUrl": "https://archive.org/details/ok-maikhany-jy-maag-ty-sufi-muzaffar-final"
+  },
+  {
+   "title": "Tazkira-e-Lutfi Two",
+   "author": "Lutuf Ullah Badvi",
+   "desc": "سوانح حيات — Lutuf Ullah Badvi۔",
+   "pdfUrl": "https://archive.org/download/tazkira-e-lutfi-two/Tazkira-e-Lutfi_%20Two.pdf",
+   "infoUrl": "https://archive.org/details/tazkira-e-lutfi-two"
+  },
+  {
+   "title": "Tazkirah Nizamani",
+   "author": "Abdul-Jabbar Qasim Nizamani",
+   "desc": "سوانح حيات — Abdul-Jabbar Qasim Nizamani۔",
+   "pdfUrl": "https://archive.org/download/TazkirahNizamani/Tazkirah_Nizamani_text.pdf",
+   "infoUrl": "https://archive.org/details/TazkirahNizamani"
+  },
+  {
+   "title": "Kandiri Jo Kaltar Sufi Rohal Faqeer",
+   "author": "Dr. Nawaz Ali Shouq",
+   "desc": "تصوف تي ڪتاب — Dr. Nawaz Ali Shouq۔",
+   "pdfUrl": "https://archive.org/download/kandirijokaltarsufirohalfaqeer_202004/Kandiri_Jo_Kaltar_Sufi_Rohal_Faqeer.pdf",
+   "infoUrl": "https://archive.org/details/kandirijokaltarsufirohalfaqeer_202004"
+  },
+  {
+   "title": "Ishq Salamat Rahe :Bayaz Hazrat Sufi Waryal Faqeer Abro",
+   "author": "Faqeer Gada Hussain Abro",
+   "desc": "تصوف تي ڪتاب — Faqeer Gada Hussain Abro۔",
+   "pdfUrl": "https://archive.org/download/IshqSalamatRahe/Ishq%20Salamat%20Rahe_Bayaz%20Hazrat%20Sufi%20Waryal%20Faqeer%20Abro.pdf",
+   "infoUrl": "https://archive.org/details/IshqSalamatRahe"
+  },
+  {
+   "title": "Rohal Faqeer Joon Ramzun",
+   "author": "Sufi Shafi Mohammad Soomro",
+   "desc": "تصوف تي ڪتاب — Sufi Shafi Mohammad Soomro۔",
+   "pdfUrl": "https://archive.org/download/rohalfaqeerjoonramzun/Rohal%20Faqeer%20Joon%20Ramzun_text.pdf",
+   "infoUrl": "https://archive.org/details/rohalfaqeerjoonramzun"
+  },
+  {
+   "title": "Seerat-e-Hashmi (Sindhi)",
+   "author": "Prof. Asrar Ahmed Alvi",
+   "desc": "سوانح حيات — Prof. Asrar Ahmed Alvi۔",
+   "pdfUrl": "https://archive.org/download/seerat-e-hashmi/Seerat-e-Hashmi_text.pdf",
+   "infoUrl": "https://archive.org/details/seerat-e-hashmi"
+  },
+  {
+   "title": "Sufi Soohon-Part 2 (Sindhi)",
+   "author": "Ropo Rejhumal Kirpalani",
+   "desc": "تصوف تي ڪتاب — Ropo Rejhumal Kirpalani۔",
+   "pdfUrl": "https://archive.org/download/sufisoohon2/Sufi%20Soohon-2.pdf",
+   "infoUrl": "https://archive.org/details/sufisoohon2"
+  },
+  {
+   "title": "Allama II Kazi Sufi Laa Kufi Part 2 Government Public Servant Dr Abdul Ghafar Soomro",
+   "author": "Allama I.I. Kazi, علامه آءِ آءِ قاضي",
+   "desc": "تصوف تي ڪتاب — Allama I.I. Kazi, علامه آءِ آءِ قاضي۔",
+   "pdfUrl": "https://archive.org/download/allama-ii-kazi-sufi-laa-kufi-part-2-government-public-servant-dr-abdul-ghafar-soomro/Allama%20II%20Kazi%20Sufi%20Laa%20Kufi%20Part%202%20Government%20Public%20Servant%20%20Dr%20Abdul%20Ghafar%20Soomro.pdf",
+   "infoUrl": "https://archive.org/details/allama-ii-kazi-sufi-laa-kufi-part-2-government-public-servant-dr-abdul-ghafar-soomro"
+  },
+  {
+   "title": "Syed Kabeer Ahmad Rifai Ba Hasiyat Sufi By Allama Ghiyas Uddin Misbahi Niza",
+   "author": "Faqeer Aamir Ali Darazi",
+   "desc": "تصوف تي ڪتاب — Faqeer Aamir Ali Darazi۔",
+   "pdfUrl": "https://archive.org/download/syedkabeerahmadrifaibahasiyatsufibyallamaghiyasuddinmisbahiniza/Syed%20Kabeer%20Ahmad%20Rifai%20Ba%20Hasiyat%20Sufi%20by%20Allama%20Ghiyas%20uddin%20Misbahi%20niza.pdf",
+   "infoUrl": "https://archive.org/details/syedkabeerahmadrifaibahasiyatsufibyallamaghiyasuddinmisbahiniza"
+  },
+  {
+   "title": "Bayaz -e- Ahmadi",
+   "author": "Sufi Hazrat Ahmad Saeen of Khangarh Sharif",
+   "desc": "تصوف تي ڪتاب — Sufi Hazrat Ahmad Saeen of Khangarh Sharif۔",
+   "pdfUrl": "https://archive.org/download/BayazEAhmadi/Bayaz-e-Ahmadi.pdf",
+   "infoUrl": "https://archive.org/details/BayazEAhmadi"
+  },
+  {
+   "title": "Bayaz Sakhi Sardar Mohammadan Faqeer Ghotto",
+   "author": "Sufi Mohammad Arif Ghotto",
+   "desc": "تصوف تي ڪتاب — Sufi Mohammad Arif Ghotto۔",
+   "pdfUrl": "https://archive.org/download/bayaz-sakhi-sardar-mohammadan-faqeer-ghotto/Bayaz%20Sakhi%20Sardar%20Mohammadan%20Faqeer%20Ghotto.pdf",
+   "infoUrl": "https://archive.org/details/bayaz-sakhi-sardar-mohammadan-faqeer-ghotto"
+  },
+  {
+   "title": "Bayaz Sufi Mohammad Pariyal Soomro",
+   "author": "Faqeer Abdul Hameed Soomro Darazi",
+   "desc": "تصوف تي ڪتاب — Faqeer Abdul Hameed Soomro Darazi۔",
+   "pdfUrl": "https://archive.org/download/bayaz-sufi-mohammad-pariyal-soomro/Bayaz%20Sufi%20Mohammad%20Pariyal%20Soomro_text.pdf",
+   "infoUrl": "https://archive.org/details/bayaz-sufi-mohammad-pariyal-soomro"
+  },
+  {
+   "title": "مئل زندگي (ڪهاڻيون 1976ع) ماڻڪ.pdf",
+   "author": "ماڻڪ",
+   "desc": "ڪهاڻين جو مجموعو — ماڻڪ۔",
+   "pdfUrl": "https://archive.org/download/soorih-sindhi-adab_20250922/%D9%85%D8%A6%D9%84%20%D8%B2%D9%86%D8%AF%DA%AF%D9%8A%20%28%DA%AA%D9%87%D8%A7%DA%BB%D9%8A%D9%88%D9%86%201976%D8%B9%29%20%D9%85%D8%A7%DA%BB%DA%AA.pdf.pdf",
+   "infoUrl": "https://archive.org/details/soorih-sindhi-adab_20250922"
+  },
+  {
+   "title": "چچريل زندگين جا قافلا (ڪهاڻيون 1981ع) رسول ميمڻ",
+   "author": "رسول ميمڻ",
+   "desc": "ڪهاڻين جو مجموعو — رسول ميمڻ۔",
+   "pdfUrl": "https://archive.org/download/20250104_20250104_1326/%DA%86%DA%86%D8%B1%D9%8A%D9%84%20%D8%B2%D9%86%D8%AF%DA%AF%D9%8A%D9%86%20%D8%AC%D8%A7%20%D9%82%D8%A7%D9%81%D9%84%D8%A7%20%28%DA%AA%D9%87%D8%A7%DA%BB%D9%8A%D9%88%D9%86%201981%D8%B9%29%20%D8%B1%D8%B3%D9%88%D9%84%20%D9%85%D9%8A%D9%85%DA%BB.pdf",
+   "infoUrl": "https://archive.org/details/20250104_20250104_1326"
+  },
+  {
+   "title": "پهاڙن ۾ پڪار ( 1984 ڪهاڻيون) خليل جبران سنڌيڪار نجم عباسي",
+   "author": "Khalil Jibran / Najam Abbasi",
+   "desc": "ڪهاڻين جو مجموعو — Khalil Jibran / Najam Abbasi۔",
+   "pdfUrl": "https://archive.org/download/1984_20240915/%D9%BE%D9%87%D8%A7%DA%99%D9%86%20%DB%BE%20%D9%BE%DA%AA%D8%A7%D8%B1%20%281984%20%DA%AA%D9%87%D8%A7%DA%BB%D9%8A%D9%88%D9%86%29%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%AC%D8%A8%D8%B1%D8%A7%D9%86%20-%20%D8%B3%D9%86%DA%8C%D9%8A%DA%AA%D8%A7%D8%B1%20-%20%D9%86%D8%AC%D9%85%20%D8%B9%D8%A8%D8%A7%D8%B3%D9%8A.pdf",
+   "infoUrl": "https://archive.org/details/1984_20240915"
+  },
+  {
+   "title": "Masnavi Dard Nama.... (Sindhi Translation)",
+   "author": "Sufi Faqir",
+   "desc": "مذهبي شاعري — Sufi Faqir۔",
+   "pdfUrl": "https://archive.org/download/MasnaviDardNama....HazratSachalSarmast/Masnavi%20Dard%20Nama....%20Hazrat%20Sachal%20Sarmast.pdf",
+   "infoUrl": "https://archive.org/details/MasnaviDardNama....HazratSachalSarmast"
+  },
+  {
+   "title": "Gulzar-e-Ghamdil",
+   "author": "Sufi Lutuf Ali Faqeer",
+   "desc": "مذهبي شاعري — Sufi Lutuf Ali Faqeer۔",
+   "pdfUrl": "https://archive.org/download/gulzareghamdil/Gulzar-e-Ghamdil.pdf",
+   "infoUrl": "https://archive.org/details/gulzareghamdil"
+  },
+  {
+   "title": "Masnavi Ishq Nama",
+   "author": "Kazi Ali Akbar Darazi",
+   "desc": "مذهبي شاعري — Kazi Ali Akbar Darazi۔",
+   "pdfUrl": "https://archive.org/download/MasnaviIshqNama/Masnavi%20Ishq%20Nama_text.pdf",
+   "infoUrl": "https://archive.org/details/MasnaviIshqNama"
+  },
+  {
+   "title": "Masnavi Jalaluddin Rumi (Sindhi)",
+   "author": "Molana Mohammad Ramzan Meherii",
+   "desc": "مذهبي شاعري — Molana Mohammad Ramzan Meherii۔",
+   "pdfUrl": "https://archive.org/download/masnavijalaluddinrumisindhi/Masnavi%20Jalaluddin%20Rumi%20-Sindhi_text.pdf",
+   "infoUrl": "https://archive.org/details/masnavijalaluddinrumisindhi"
+  },
+  {
+   "title": "Amul Anrtoriya ( Shah Abdul Latif Bhittai Ja Ladhal Bait)",
+   "author": "Syed Ghulam Mustafa Shah",
+   "desc": "سنڌي ادب جو ڪتاب — Syed Ghulam Mustafa Shah۔",
+   "pdfUrl": "https://archive.org/download/amul-anrtoriya-shah-abdul-latif-bhittai-ja-ladhal-bait/Amul-Anrtoriya%20%28Shah%20Abdul%20Latif%20Bhittai%20Ja%20Ladhal%20Bait%29_text.pdf",
+   "infoUrl": "https://archive.org/details/amul-anrtoriya-shah-abdul-latif-bhittai-ja-ladhal-bait"
+  },
+  {
+   "title": "Sohni Mehar Shah Abdul Latif",
+   "author": "Junaid Farooqui",
+   "desc": "سنڌي ادب جو ڪتاب — Junaid Farooqui۔",
+   "pdfUrl": "https://archive.org/download/sohni-mehar-shah-abdul-latif/Sohni%20Mehar_Shah%20Abdul%20Latif.pdf",
+   "infoUrl": "https://archive.org/details/sohni-mehar-shah-abdul-latif"
+  },
+  {
+   "title": "Shah Latif Jey Daur Mein Tasawuf Ja Silslia",
+   "author": "Dr. Abid Mazhar",
+   "desc": "سنڌي ادب جو ڪتاب — Dr. Abid Mazhar۔",
+   "pdfUrl": "https://archive.org/download/shahlatifjeydaurmeintasawufjasilslia/Shah%20Latif%20Jey%20Daur%20Mein%20Tasawuf%20Ja%20Silslia_text.pdf",
+   "infoUrl": "https://archive.org/details/shahlatifjeydaurmeintasawufjasilslia"
   }
  ]
 }
